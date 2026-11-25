@@ -1,6 +1,6 @@
 # stock_market_analysis
 
-This is a BI Analysis Data Querying and Visualization Portfolio Project on the subject of S&P 500 Stock Prices, a dataset sourced from the Investor's Exchange and retrieved by Maven Analytics. Attached are the SQL code file, the following link to the interactive dashboards, and printed copies of the code and the dashboard to serve as previews.
+This is a BI Analysis Data Querying and Visualization Portfolio Project on the subject of S&P 500 Stock Prices, a dataset sourced from the Investor's Exchange and retrieved by Maven Analytics. Attached are the SQL code file and the following link to the interactive dashboards.
 
 https://public.tableau.com/views/SP500StockMarketAnalysis_17929907187280/StockAnalysis2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
